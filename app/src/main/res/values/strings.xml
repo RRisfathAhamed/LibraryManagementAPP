@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Library App</string>
+    <string name="add_new_books">Add New Books</string>
+    <string name="book_id">Book ID</string>
+    <string name="title">Title</string>
+    <string name="publisher_name">Publisher Name</string>
+</resources>

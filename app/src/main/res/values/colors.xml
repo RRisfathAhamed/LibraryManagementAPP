@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="mainultra">#e7d9c7</color>
+    <color name="mainlow">#fbe5d6</color>
+    <color name="mainmid">#f8cbad</color>
+    <color name="mainhig">#f4b183</color>
+    <color name="main">#ff8943</color>
+    <color name="darkbrown">#800000</color>
+    <color name="ruslyell">#d6a814</color>
+    <color name="saveButtonColor">#4CAF50</color> <!-- Green color for Save button -->
+    <color name="deleteButtonColor">#F44336</color> <!-- Red color for Delete button -->
+    <color name="ruslorng">#fe7f41</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
